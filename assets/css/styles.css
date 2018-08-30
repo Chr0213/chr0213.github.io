@@ -394,7 +394,6 @@ text-align: -webkit-match-parent;
     position: relative;
     top: 1px;
   }
-}
 
 
 .bouncy{
@@ -410,5 +409,3 @@ text-align: -webkit-match-parent;
  50%{top:0em}
  100%{top:0em;}
 }
-/* Large devices (large desktops, 1200px and up) */
-/* Ex-Large devices (large desktops, 1200px and up) */
